@@ -1,3 +1,6 @@
+#!/usr/bin/python3
+# Created by TH3CR4C3R0 
+
 from tkinter import *
 from tqdm import tqdm
 from time import sleep
